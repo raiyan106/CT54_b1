@@ -1,0 +1,46 @@
+.first{
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	padding:250px 0;
+}
+
+.second{
+	
+
+}
+
+.bott{
+	    border-bottom: 2px solid #ddd;
+    padding: 80px 15px;
+}
+
+.second p{
+	text-align: justify;
+	padding: 20px
+}
+
+.padded{
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+
+.mid{
+	    margin: 50px 0;
+
+}
+
+ul{
+	margin: 0;
+	padding:0;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+ul li a{
+	padding: 10px 20px;
+	display: block;
+}
